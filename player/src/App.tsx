@@ -27,6 +27,7 @@ function App() {
     <>
       <h1>tic tac toe</h1>
       <a href="https://sigmacat123.com" target="_blank" rel="noopener noreferrer"className="text-link"> made by Sigmacat123 </a>
+      <a href="https://github.com/Ozziboi65/tictactoe" target="_blank" rel="noopener noreferrer"className="text-link">github Repo</a>
       <div style={{ display: showName ? 'block' : 'none' }}>      
           <div style={{ padding: '20px'}}>
           <label htmlFor="user-input">username: </label>
